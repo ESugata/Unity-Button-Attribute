@@ -2,7 +2,6 @@
 using System.Diagnostics;
 using System.Reflection;
 using UnityEngine;
-using Debug = UnityEngine.Debug;
 
 /// <inheritdoc />
 /// <summary>
